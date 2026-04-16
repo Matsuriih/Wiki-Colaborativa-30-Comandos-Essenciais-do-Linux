@@ -1,0 +1,1 @@
+# Wiki-Colaborativa-30-Comandos-Essenciais-do-Linux
