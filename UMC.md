@@ -7,7 +7,7 @@
 **Os comandos a seguir, são uns dos trintas comandos essencial no Linux:**
 
 
-## Comandos: `CD`
+## Comando: `CD`
 **O que ele faz?**
 
 Permite navegar entre diretórios do sistema.
@@ -17,7 +17,7 @@ Permite navegar entre diretórios do sistema.
 cd /Home/Usuário
 ```
 
-## Comandos: `PWD`
+## Comando: `PWD`
 **O que ele faz?**
 
 Exibe o caminho completo do diretório atual.
@@ -28,7 +28,7 @@ Exibe o caminho completo do diretório atual.
 Pwd
 ```
 
-## Comandos: `MKDIR`
+## Comando: `MKDIR`
 **O que ele faz?**
 
 Cria novas pastas
@@ -39,7 +39,7 @@ Cria novas pastas
 Mkdir dados_exeperimento
 ```
 
-## Comandos: `RM`
+## Comando: `RM`
 **O que ele faz?**
 
 Remove os arquivos ou diretório do sistema.
@@ -50,7 +50,7 @@ Remove os arquivos ou diretório do sistema.
 Rm arquivo.txt
 ```
 
-## Comandos: `CP`
+## Comando: `CP`
 **O que ele faz?**
 
 Copia arquivos ou diretório de um local para outro.
@@ -61,7 +61,7 @@ Copia arquivos ou diretório de um local para outro.
 Cp dados.txt backup dados.txt
 ```
 
-## Comandos: `MV`
+## Comando: `MV`
 **O que ele faz?**
 
 Move ou renomeia arquivos e diretórios.
@@ -72,7 +72,7 @@ Move ou renomeia arquivos e diretórios.
 Mv dados.txt /Home/Usuario
 ```
 
-## Comandos: `TOUCH`
+## Comando: `TOUCH`
 **O que ele faz?**
 
 Cria arquivos vazios ou atualiza a data de modificação.
@@ -83,7 +83,7 @@ Cria arquivos vazios ou atualiza a data de modificação.
 Touch novo arquivo.txt
 ```
 
-## Comandos: `CAT`
+## Comando: `CAT`
 **O que ele faz?**
 
 Exibe o conteúdo de arquivos no terminal.
@@ -94,7 +94,7 @@ Exibe o conteúdo de arquivos no terminal.
 Cat resultados.txt
 ```
 
-## Comandos: `NANO`
+## Comando: `NANO`
 **O que ele faz?**
 
 Editor de texto simples no terminal.
@@ -105,7 +105,7 @@ Editor de texto simples no terminal.
 Nano script.sh
 ```
 
-## Comandos: `CLEAR`
+## Comando: `CLEAR`
 **O que ele faz?**
 
 Limpa o terminal.
@@ -116,7 +116,7 @@ Limpa o terminal.
 Clear
 ```
 
-## Comandos: `HISTORY`
+## Comando: `HISTORY`
 **O que ele faz?**
 
 Mostra o histórico de comandos utilizados.
@@ -127,7 +127,7 @@ Mostra o histórico de comandos utilizados.
 History
 ```
 
-## Comandos: `CHMOD`
+## Comando: `CHMOD`
 **O que ele faz?**
 
 Altera permissões de acesso de arquivos e diretórios.
@@ -138,7 +138,7 @@ Altera permissões de acesso de arquivos e diretórios.
 Chmod 755 script.sh
 ```
 
-## Comandos: `GREP`
+## Comando: `GREP`
 **O que ele faz?**
 
 Busca padrões de texto dentro de arquivos.
@@ -149,7 +149,7 @@ Busca padrões de texto dentro de arquivos.
 Grep "erro" log.txt
 ```
 
-## Comandos: `FIND`
+## Comando: `FIND`
 **O que ele faz?**
 
 Localiza arquivos e diretórios no sistema.
@@ -159,7 +159,7 @@ Localiza arquivos e diretórios no sistema.
 
 Find . -name arquivo.txt
 ```
-## Comandos: `TAIL`
+## Comando: `TAIL`
 **O que ele faz?**
 
 Mostra as últimas linhas de um arquivo.
