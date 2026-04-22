@@ -159,4 +159,14 @@ Localiza arquivos e diretórios no sistema.
 
 Find . -name arquivo.txt
 ```
+## Comandos: `TAIL`
+**O que ele faz?**
+
+Mostra as últimas linhas de um arquivo.
+
+**Exemplo:**
+```bash
+
+Tail arquivo.txt
+```
 
