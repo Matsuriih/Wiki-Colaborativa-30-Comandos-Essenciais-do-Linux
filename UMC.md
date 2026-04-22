@@ -94,4 +94,69 @@ Exibe o conteúdo de arquivos no terminal.
 Cat resultados.txt
 ```
 
+## Comandos: `NANO`
+**O que ele faz?**
+
+Editor de texto simples no terminal.
+
+**Exemplo:**
+```bash
+
+Nano script.sh
+```
+
+## Comandos: `CLEAR`
+**O que ele faz?**
+
+Limpa o terminal.
+
+**Exemplo:**
+```bash
+
+Clear
+```
+
+## Comandos: `HISTORY`
+**O que ele faz?**
+
+Mostra o histórico de comandos utilizados.
+
+**Exemplo:**
+```bash
+
+History
+```
+
+## Comandos: `CHMOD`
+**O que ele faz?**
+
+Altera permissões de acesso de arquivos e diretórios.
+
+**Exemplo:**
+```bash
+
+Chmod 755 script.sh
+```
+
+## Comandos: `GREP`
+**O que ele faz?**
+
+Busca padrões de texto dentro de arquivos.
+
+**Exemplo:**
+```bash
+
+Grep "erro" log.txt
+```
+
+## Comandos: `FIND`
+**O que ele faz?**
+
+Localiza arquivos e diretórios no sistema.
+
+**Exemplo:**
+```bash
+
+Find . -name arquivo.txt
+```
 
