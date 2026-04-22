@@ -38,3 +38,6 @@ Cria novas pastas
 
 Mkdir dados_exeperimento
 ```
+
+priquito
+
