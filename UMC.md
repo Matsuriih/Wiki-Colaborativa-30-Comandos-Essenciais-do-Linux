@@ -50,5 +50,48 @@ Remove os arquivos ou diretório do sistema.
 Rm arquivo.txt
 ```
 
+## Comandos: `CP`
+**O que ele faz?**
+
+Copia arquivos ou diretório de um local para outro.
+
+**Exemplo:**
+```bash
+
+Cp dados.txt backup dados.txt
+```
+
+## Comandos: `MV`
+**O que ele faz?**
+
+Move ou renomeia arquivos e diretórios.
+
+**Exemplo:**
+```bash
+
+Mv dados.txt /Home/Usuario
+```
+
+## Comandos: `TOUCH`
+**O que ele faz?**
+
+Cria arquivos vazios ou atualiza a data de modificação.
+
+**Exemplo:**
+```bash
+
+Touch novo arquivo.txt
+```
+
+## Comandos: `CAT`
+**O que ele faz?**
+
+Exibe o conteúdo de arquivos no terminal.
+
+**Exemplo:**
+```bash
+
+Cat resultados.txt
+```
 
 
