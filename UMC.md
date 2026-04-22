@@ -39,5 +39,16 @@ Cria novas pastas
 Mkdir dados_exeperimento
 ```
 
-priquito
+## Comandos: `RM`
+**O que ele faz?**
+
+Remove os arquivos ou diretório do sistema.
+
+**Exemplo:**
+```bash
+
+Rm arquivo.txt
+```
+
+
 
