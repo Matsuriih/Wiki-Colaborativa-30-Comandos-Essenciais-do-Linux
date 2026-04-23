@@ -317,5 +317,5 @@ Curso: Análise e Desenvolvimento De Sistema
 e
 Heloise Azevedo de Souza
 RGM: 11261100527
-Curso: Sistemas de Infornação
+Curso: Sistemas de Informação
 
