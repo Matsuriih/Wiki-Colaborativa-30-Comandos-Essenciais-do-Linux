@@ -169,4 +169,142 @@ Mostra as últimas linhas de um arquivo.
 
 Tail arquivo.txt
 ```
+## Comando: `1S`
+**O que ele faz?**
 
+Lista os arquivos e diretórios do local atual.
+
+**Exemplo:**
+```bash
+
+ls
+```
+## Comando: `whoami`
+**O que ele faz?**
+
+Mostra o nome do usuário atual.
+
+**Exemplo:**
+```bash
+
+whoami
+```
+## Comando: `date`
+**O que ele faz?**
+
+Exibe a data e hora do sistema.
+
+**Exemplo:**
+```bash
+
+date
+```
+## Comando: `echo`
+**O que ele faz?**
+
+Exibe uma mensagem na tela.
+
+**Exemplo**
+```bash
+
+echo "Olá mundo"
+```
+## Comando: `uname`
+**O que ele faz?**
+
+Mostra informações sobre o sistema operacional.
+
+**Exemplo**
+```bash
+
+uname -a
+````
+## Comando: `df`
+**O que ele faz?**
+
+Mostra o uso de espaço em disco.
+
+**Exemplo**
+```bash
+
+df -h
+```
+## Comando: `du`
+**O que ele faz?**
+
+Mostra o tamanho de arquivos e pastas.
+
+**Exemplo**
+```bash
+
+du -h
+```
+## Comando: `top`
+**O que ele faz?**
+
+Mostra os processos em execução em tempo real.
+
+**Exemplo**
+```bash
+
+top
+```
+## Comando: `ps`
+**O que ele faz?**
+
+Lista os processos em execução.
+
+**Exemplo**
+```bash
+
+ps aux
+```
+## Comando: `kill`
+**O que ele faz?**
+
+Encerra um processo pelo ID.
+
+**Exemplo**
+```bash
+
+kill 1234
+```
+## Comando: `man`
+**O que ele faz?**
+
+Mostra o manual de um comando.
+
+**Exemplo**
+```bash
+
+man ls
+```
+## Comando: `curl`
+**O que ele faz?**
+
+Faz requisições para URLs (tipo acessar APIs ou baixar conteúdo).
+
+**Exemplo**
+```bash
+
+curl https://google.com
+```
+## Comando: `ping`
+**O que ele faz?**
+
+Testa a conexão com um servidor.
+
+**Exemplo**
+```bash
+
+ping google.com
+```
+## Comando: `reboot`
+**O que ele faz?**
+
+Reinicia o sistema.
+
+**Exemplo**
+```bash
+
+reboot
